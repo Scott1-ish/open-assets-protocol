@@ -1,4 +1,4 @@
-<pre>
+var .<pre>
   Title: Open Assets Address Format
   Author: Flavien Charlon <flavien@charlon.net>
   Created: 2014-10-16
